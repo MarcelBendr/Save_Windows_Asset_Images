@@ -1,0 +1,1 @@
+This repository contains a python script which, on execution lets the user access the Microsoft Windows background images (at this stage only existing as "TranscodedWallpaper" files without image file ending) of the starting screen. The files then can be converted into .jpg files and saved to a newly defined directory.
